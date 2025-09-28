@@ -1,0 +1,74 @@
+Disappear till DECEMBER 2025 and…
+
+And crack all DSA Rounds.
+
+Here’s HOW you can do it in 5 steps:
+
+𝗦𝘁𝗲𝗽 𝟭: 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀
+Time & Space Complexity (Big-O, Big-Theta, Big-Omega)
+Recursion Basics (Base Case, Recursive Relations)
+Iterative vs Recursive Approaches
+Problem-Solving Mindset → Brute Force to Optimized
+
+𝗦𝘁𝗲𝗽 𝟮: 𝗖𝗼𝗿𝗲 𝗗𝗦𝗔 𝗧𝗼𝗽𝗶𝗰𝘀
+Arrays & Strings → Prefix Sum, Sliding Window, Two-Pointers
+Linked Lists → Reversal, Cycle Detection, Merge
+Stacks & Queues → Monotonic Stack, Deques, LRU Cache
+Hashing → Frequency Maps, Sets, Prefix Hashing
+
+𝗦𝘁𝗲𝗽 𝟯: 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗧𝗼𝗽𝗶𝗰𝘀
+Trees → Binary Trees, BST, DFS, BFS, LCA
+Heaps & Priority Queues → Top-K Problems, Dijkstra’s Algorithm
+Graphs → BFS, DFS, Shortest Path, Union-Find
+Dynamic Programming → 1D/2D DP, Knapsack, DP on Strings
+
+𝗦𝘁𝗲𝗽 𝟰: 𝗣𝗮𝘁𝘁𝗲𝗿𝗻-𝗯𝗮𝘀𝗲𝗱 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
+Identify Patterns → Sliding Window, Binary Search on Answer
+Reuse Templates → Backtracking, DP States, Greedy Choices
+Practice Leetcode/Codeforces Problem Sets by Patterns
+
+𝗦𝘁𝗲𝗽 𝟱: 𝗠𝗼𝗰𝗸𝘀 & 𝗥𝗲𝘃𝗶𝘀𝗶𝗼𝗻
+Solve real interview questions in time-bound mode
+Analyze mistakes → Optimize solutions
+Take mock interviews to simulate pressure
+Keep refining weak areas
+
+30 DSA questions split into Easy, Medium, and Hard – ideal for interview prep
+
+Easy (10 Questions)
+Two Sum (Array)
+Reverse a String (String)
+Find Min and Max in Array
+Check Palindrome String
+Merge Two Sorted Arrays
+Move Zeroes to End (Array)
+Remove Duplicates from Sorted Array
+Find Missing Number in Array (1 to n)
+Linked List → Middle Element
+Valid Parentheses (Stack)
+
+Medium (10 Questions)
+Subarray Sum Equals K (Prefix Sum + Hashing)
+3Sum (Array)
+Longest Substring Without Repeating Characters (Sliding Window)
+Product of Array Except Self
+Rotate Matrix (2D Array)
+Next Greater Element (Monotonic Stack)
+Detect Cycle in Linked List (Floyd’s Algorithm)
+Implement LRU Cache (HashMap + Doubly Linked List)
+Binary Tree → Level Order Traversal (BFS)
+Binary Search → Find First and Last Occurrence
+
+Hard (10 Questions)
+Trapping Rain Water (Two-Pointer / Stack)
+Minimum Window Substring (Sliding Window)
+Word Break Problem (DP)
+Longest Increasing Subsequence (DP)
+N-Queens Problem (Backtracking)
+Kth Largest Element in Stream (Heap)
+Serialize & Deserialize Binary Tree
+Dijkstra’s Algorithm (Graph + Heap)
+Union-Find → Number of Connected Components
+DP on Strings → Edit Distance
+
+Your DSA Prep → Structured, Smart, and Focused.
